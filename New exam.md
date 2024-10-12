@@ -1,4 +1,4 @@
-
+	
 The exam composition was update on the 1st October 2024 (yes, exactly after a month I started studying for it, LOL).
 
 It is similar to the previous one, but it introduces some new concepts (mostly related to Generative AI).
