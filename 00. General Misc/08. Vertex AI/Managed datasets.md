@@ -1,0 +1,2 @@
+
+Some of the advantages of using Vertex AI managed datasets is managing datasets in a central location, integrated data labeling for unlabeled unstructured data, and automatically split between train, test and validation
